@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently employed as a developer. I also enjoy playing around with data, especially using machine learning techniques.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsang-mok&size_weight=0.15&hide=html,scss,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **kimsang-mok/kimsang-mok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
