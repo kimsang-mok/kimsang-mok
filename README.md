@@ -1,8 +1,8 @@
-### Hi there 👋
+<h2> Hi, I'm Kimsang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I'm currently employed as a developer. I also enjoy playing around with data, especially using machine learning techniques.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsang-mok&size_weight=0.08&hide=html,scss,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsang-mok&size_weight=0.08&hide=python,javascript,html,scss,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
